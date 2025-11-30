@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: ffdb0489366c9814f8c276e3efd38b30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2285271481482913195
+    second: pmf_logo_0
+  - first:
+      213: -7130774984623620368
+    second: pmf_logo_1
+  - first:
+      213: -852549122528685618
+    second: pmf_logo_2
+  - first:
+      213: -3588041920886506837
+    second: pmf_logo_3
+  - first:
+      213: 2395737254001947583
+    second: pmf_logo_4
+  - first:
+      213: -8640242092907753231
+    second: pmf_logo_5
+  - first:
+      213: -7723950025261720902
+    second: pmf_logo_6
+  - first:
+      213: -4714523310605359619
+    second: pmf_logo_7
+  - first:
+      213: 124389826528837455
+    second: pmf_logo_8
+  - first:
+      213: 8622800549674282289
+    second: pmf_logo_9
+  - first:
+      213: -1951448712687986181
+    second: pmf_logo_10
+  - first:
+      213: -4190609926245393159
+    second: pmf_logo_11
+  - first:
+      213: -1077979479288311192
+    second: pmf_logo_12
+  - first:
+      213: 979854862974822479
+    second: pmf_logo_13
+  - first:
+      213: 6419246378673066847
+    second: pmf_logo_14
+  - first:
+      213: -1321906565169658030
+    second: pmf_logo_15
+  - first:
+      213: 4365465562650897163
+    second: pmf_logo_16
+  - first:
+      213: -2627959929351513232
+    second: pmf_logo_17
+  - first:
+      213: -2529997996031208747
+    second: pmf_logo_18
+  - first:
+      213: 7631116731750469057
+    second: pmf_logo_19
+  - first:
+      213: -1234055962729963947
+    second: pmf_logo_20
+  - first:
+      213: 1584665889873405554
+    second: pmf_logo_21
+  - first:
+      213: 5574268401235155326
+    second: pmf_logo_22
+  - first:
+      213: 7612801239597504446
+    second: pmf_logo_23
+  - first:
+      213: -6532174797351865760
+    second: pmf_logo_24
+  - first:
+      213: -6856139996826075821
+    second: pmf_logo_25
+  - first:
+      213: -7703659548254485731
+    second: pmf_logo_26
+  - first:
+      213: 5830368176412109941
+    second: pmf_logo_27
+  - first:
+      213: 5738256398291416619
+    second: pmf_logo_28
+  - first:
+      213: -7133735743575825388
+    second: pmf_logo_29
+  - first:
+      213: 1844274866161932964
+    second: pmf_logo_30
+  - first:
+      213: 8251853997322339571
+    second: pmf_logo_31
+  - first:
+      213: -435395095946830572
+    second: pmf_logo_32
+  - first:
+      213: 6409020450793555374
+    second: pmf_logo_33
+  - first:
+      213: 3966438305076548508
+    second: pmf_logo_34
+  - first:
+      213: -9219247313400840305
+    second: pmf_logo_35
+  - first:
+      213: 8717062681521378622
+    second: pmf_logo_36
+  - first:
+      213: -6636356700120211114
+    second: pmf_logo_37
+  - first:
+      213: -7039966912905970731
+    second: pmf_logo_38
+  - first:
+      213: -3371511163122119556
+    second: pmf_logo_39
+  - first:
+      213: -6136849960882429619
+    second: pmf_logo_40
+  - first:
+      213: 51524715289821342
+    second: pmf_logo_41
+  - first:
+      213: -7580802737605153403
+    second: pmf_logo_42
+  - first:
+      213: 916220038824760820
+    second: pmf_logo_43
+  - first:
+      213: 5823326868674064424
+    second: pmf_logo_44
+  - first:
+      213: 6123633947228613744
+    second: pmf_logo_45
+  - first:
+      213: 8271928796183011568
+    second: pmf_logo_46
+  - first:
+      213: -2740387960675348769
+    second: pmf_logo_47
+  - first:
+      213: 1217334237205136243
+    second: pmf_logo_48
+  - first:
+      213: -7359448820772890449
+    second: pmf_logo_49
+  - first:
+      213: -2054267753337494121
+    second: pmf_logo_50
+  - first:
+      213: 7212122280986597261
+    second: pmf_logo_51
+  - first:
+      213: -6960914580170580180
+    second: pmf_logo_52
+  - first:
+      213: -5833821911801964686
+    second: pmf_logo_53
+  - first:
+      213: 6619641292751009437
+    second: pmf_logo_54
+  - first:
+      213: 2837577183037801142
+    second: pmf_logo_55
+  - first:
+      213: -7690063672880026292
+    second: pmf_logo_56
+  - first:
+      213: -4326602650278875267
+    second: pmf_logo_57
+  - first:
+      213: 3359977357880633952
+    second: pmf_logo_58
+  - first:
+      213: -422008204458254589
+    second: pmf_logo_59
+  - first:
+      213: -3787215639280574565
+    second: pmf_logo_60
+  - first:
+      213: -4177955451999037621
+    second: pmf_logo_61
+  - first:
+      213: -6544780853946433820
+    second: pmf_logo_62
+  - first:
+      213: -9054439981976167186
+    second: pmf_logo_63
+  - first:
+      213: 1671185072538685883
+    second: pmf_logo_64
+  - first:
+      213: 2244230633922972069
+    second: pmf_logo_65
+  - first:
+      213: 5984483912693359754
+    second: pmf_logo_66
+  - first:
+      213: 6238322988411981385
+    second: pmf_logo_67
+  - first:
+      213: 865427059371202159
+    second: pmf_logo_68
+  - first:
+      213: 3766955870362903734
+    second: pmf_logo_69
+  - first:
+      213: 2441054214973264848
+    second: pmf_logo_70
+  - first:
+      213: 1787828657261403848
+    second: pmf_logo_71
+  - first:
+      213: 6719578957728853230
+    second: pmf_logo_72
+  - first:
+      213: 3867771122250871463
+    second: pmf_logo_73
+  - first:
+      213: -1332040606921698000
+    second: pmf_logo_74
+  - first:
+      213: -1429445335382650215
+    second: pmf_logo_75
+  - first:
+      213: 1262905036929827787
+    second: pmf_logo_76
+  - first:
+      213: -6809459292041570224
+    second: pmf_logo_77
+  - first:
+      213: 1451461079752103820
+    second: pmf_logo_78
+  - first:
+      213: 134184289703899723
+    second: pmf_logo_79
+  - first:
+      213: 1515036390374709585
+    second: pmf_logo_80
+  - first:
+      213: -6031891756064441772
+    second: pmf_logo_81
+  - first:
+      213: 6875382645258176717
+    second: pmf_logo_82
+  - first:
+      213: 7820788416398923300
+    second: pmf_logo_83
+  - first:
+      213: 7568568689212050626
+    second: pmf_logo_84
+  - first:
+      213: 7930543483538716163
+    second: pmf_logo_85
+  - first:
+      213: -4474464596152066200
+    second: pmf_logo_86
+  - first:
+      213: -6423187423595864702
+    second: pmf_logo_87
+  - first:
+      213: -8161479466019641360
+    second: pmf_logo_88
+  - first:
+      213: 7268347733804301634
+    second: pmf_logo_89
+  - first:
+      213: 4440679279356595838
+    second: pmf_logo_90
+  - first:
+      213: 8215955596447832827
+    second: pmf_logo_91
+  - first:
+      213: 4046893661743095837
+    second: pmf_logo_92
+  - first:
+      213: 4261864673358489616
+    second: pmf_logo_93
+  - first:
+      213: -1674683593955458542
+    second: pmf_logo_94
+  - first:
+      213: -2963339725596794878
+    second: pmf_logo_95
+  - first:
+      213: 3060951672025954214
+    second: pmf_logo_96
+  - first:
+      213: 4199318313342376905
+    second: pmf_logo_97
+  - first:
+      213: 9073100420664219265
+    second: pmf_logo_98
+  - first:
+      213: -2794938579722981489
+    second: pmf_logo_99
+  - first:
+      213: -4595113478287157284
+    second: pmf_logo_100
+  - first:
+      213: 495812724992786765
+    second: pmf_logo_101
+  - first:
+      213: -117679464257438275
+    second: pmf_logo_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 3
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pmf_logo_0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 510
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a51ea02b51940e0800000000000000
+      internalID: -2285271481482913195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 546
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe74449ee56a0d90800000000000000
+      internalID: -7130774984623620368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 553
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15b1e07132b24f0800000000000000
+      internalID: -852549122528685618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 555
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa795a12e6b43ec0800000000000000
+      internalID: -3588041920886506837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 549
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3b4ffd65e5f3120800000000000000
+      internalID: 2395737254001947583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 542
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f01bde2891b71880800000000000000
+      internalID: -8640242092907753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 529
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad76110640fc490800000000000000
+      internalID: -7723950025261720902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 480
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a1121706a29eb0800000000000000
+      internalID: -4714523310605359619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 506
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7cef53ebe9b100800000000000000
+      internalID: 124389826528837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 465
+        width: 229
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de0641a675aa770800000000000000
+      internalID: 8622800549674282289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 498
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d6da2cbf0be4e0800000000000000
+      internalID: -1951448712687986181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 477
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcdae19976f7d5c0800000000000000
+      internalID: -4190609926245393159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 420
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621cddff5f3a01f0800000000000000
+      internalID: -1077979479288311192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 448
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ad0f6ec4299d00800000000000000
+      internalID: 979854862974822479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 370
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53558e129eb51950800000000000000
+      internalID: 6419246378673066847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 370
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2574ec49bf4a7ade0800000000000000
+      internalID: -1321906565169658030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0be10dcccf359c30800000000000000
+      internalID: 4365465562650897163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 370
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bda072e5c978bd0800000000000000
+      internalID: -2627959929351513232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 370
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21c142a34a3ecd0800000000000000
+      internalID: -2529997996031208747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 448
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc6837c3c27e960800000000000000
+      internalID: 7631116731750469057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 420
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1784e3a0cfdee0800000000000000
+      internalID: -1234055962729963947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 392
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276259d1b3dddf510800000000000000
+      internalID: 1584665889873405554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 362
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795e42c397cb5d40800000000000000
+      internalID: 5574268401235155326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 369
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7dcdf946a16a960800000000000000
+      internalID: 7612801239597504446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 393
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062351971ad0955a0800000000000000
+      internalID: -6532174797351865760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 344
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d75de8ff81ad0a0800000000000000
+      internalID: -6856139996826075821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 316
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ceb3e47a171590800000000000000
+      internalID: -7703659548254485731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 336
+        width: 253
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c29c047f0a9e050800000000000000
+      internalID: 5830368176412109941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 211
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26b54aaac162af40800000000000000
+      internalID: 5738256398291416619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 317
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e7aa2321effc90800000000000000
+      internalID: -7133735743575825388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 341
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa53c9283e289910800000000000000
+      internalID: 1844274866161932964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 292
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f409c88d79748270800000000000000
+      internalID: 8251853997322339571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 289
+        width: 197
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d5421977a25f9f0800000000000000
+      internalID: -435395095946830572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 276
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea583cfb42a61f850800000000000000
+      internalID: 6409020450793555374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 276
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9317959f9e9b0730800000000000000
+      internalID: 3966438305076548508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 276
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fb4440a67ae0080800000000000000
+      internalID: -9219247313400840305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 290
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3555e8e25a39f870800000000000000
+      internalID: 8717062681521378622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 266
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512d8efdbce6e3a0800000000000000
+      internalID: -6636356700120211114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 236
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db7cbd54630d4e90800000000000000
+      internalID: -7039966912905970731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 236
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c87ddc57cf531d0800000000000000
+      internalID: -3371511163122119556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 266
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41abb9997785daa0800000000000000
+      internalID: -6136849960882429619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 223
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c000a47d07b000800000000000000
+      internalID: 51524715289821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 215
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6cb033149bc690800000000000000
+      internalID: -7580802737605153403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 213
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59e3e554117bc00800000000000000
+      internalID: 916220038824760820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203e4a0fec90d050800000000000000
+      internalID: 5823326868674064424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 221
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca51f61a48bf450800000000000000
+      internalID: 6123633947228613744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f020dfd96bcbc270800000000000000
+      internalID: 8271928796183011568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde40314baf28f9d0800000000000000
+      internalID: -2740387960675348769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373888df907d4e010800000000000000
+      internalID: 1217334237205136243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 111
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81a2f1a4cfdd990800000000000000
+      internalID: -7359448820772890449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 111
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79567c0cc56cd73e0800000000000000
+      internalID: -2054267753337494121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 111
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d2eac00b961460800000000000000
+      internalID: 7212122280986597261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5811e11dd56f90800000000000000
+      internalID: -6960914580170580180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 111
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277572051e91a0fa0800000000000000
+      internalID: -5833821911801964686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_54
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d967ee2fea0bddb50800000000000000
+      internalID: 6619641292751009437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_55
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 111
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c8b1f969116720800000000000000
+      internalID: 2837577183037801142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da9dd45d7674590800000000000000
+      internalID: -7690063672880026292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 111
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2dd910d1d4f3c0800000000000000
+      internalID: -4326602650278875267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa4d5ea9901ae20800000000000000
+      internalID: 3359977357880633952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f17f026c9b42af0800000000000000
+      internalID: -422008204458254589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 100
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f90ec017b117bc0800000000000000
+      internalID: -3787215639280574565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_61
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 111
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d034f6abe406c0800000000000000
+      internalID: -4177955451999037621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 111
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eebeb33d744c25a0800000000000000
+      internalID: -6544780853946433820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 111
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec57321fca285280800000000000000
+      internalID: -9054439981976167186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 101
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19a9a18fd313710800000000000000
+      internalID: 1671185072538685883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 111
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a947010fdb152f10800000000000000
+      internalID: 2244230633922972069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_66
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 101
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84a02459682d0350800000000000000
+      internalID: 5984483912693359754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_67
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 111
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0376b4b9f29650800000000000000
+      internalID: 6238322988411981385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_68
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 111
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d4d4435d920c00800000000000000
+      internalID: 865427059371202159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ad89e76ae64430800000000000000
+      internalID: 3766955870362903734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d393f010ed50e120800000000000000
+      internalID: 2441054214973264848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_71
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce545301b4afc810800000000000000
+      internalID: 1787828657261403848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_72
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec2e9fc57db04d50800000000000000
+      internalID: 6719578957728853230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f646e7551da530800000000000000
+      internalID: 3867771122250871463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 76
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035590e1024a38de0800000000000000
+      internalID: -1332040606921698000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_75
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929dae7a07992ce0800000000000000
+      internalID: -1429445335382650215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 76
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3014f907db68110800000000000000
+      internalID: 1262905036929827787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 76
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05811691ad0ff71a0800000000000000
+      internalID: -6809459292041570224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87ddef6920a42410800000000000000
+      internalID: 1451461079752103820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b423d3a86e7bcd100800000000000000
+      internalID: 134184289703899723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159131ee19d760510800000000000000
+      internalID: 1515036390374709585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45afb2cf76a6a4ca0800000000000000
+      internalID: -6031891756064441772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8cf79a6144a6f50800000000000000
+      internalID: 6875382645258176717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 76
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42692fed0a5098c60800000000000000
+      internalID: 7820788416398923300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_84
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 76
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc0a27f15f80960800000000000000
+      internalID: 7568568689212050626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_85
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063d1cc743fe0e60800000000000000
+      internalID: 7930543483538716163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_86
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f5b42182287e1c0800000000000000
+      internalID: -4474464596152066200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 76
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ddfcad1114cd6a0800000000000000
+      internalID: -6423187423595864702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 76
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f72142caa99cbe80800000000000000
+      internalID: -8161479466019641360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_89
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 76
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dbb6921cb5ed460800000000000000
+      internalID: 7268347733804301634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_90
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ecc7fd64670ad30800000000000000
+      internalID: 4440679279356595838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_91
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad7a0c510f40270800000000000000
+      internalID: 8215955596447832827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_92
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 69
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d102aff0854792830800000000000000
+      internalID: 4046893661743095837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_93
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 76
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018a150175f252b30800000000000000
+      internalID: 4261864673358489616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 76
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124c17e42452c8e0800000000000000
+      internalID: -1674683593955458542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_95
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 76
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200eff2583a10e6d0800000000000000
+      internalID: -2963339725596794878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7bebdf35faa7a20800000000000000
+      internalID: 3060951672025954214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 76
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb909dc1c9f64a30800000000000000
+      internalID: 4199318313342376905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_98
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865321e2c02aed70800000000000000
+      internalID: 9073100420664219265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_99
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 76
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fa3928b226639d0800000000000000
+      internalID: -2794938579722981489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_100
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 76
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7951033a0ea30c0800000000000000
+      internalID: -4595113478287157284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_101
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 76
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d414054eb0b71e600800000000000000
+      internalID: 495812724992786765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pmf_logo_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb397962bed5ef0800000000000000
+      internalID: -117679464257438275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pmf_logo_0: -2285271481482913195
+      pmf_logo_1: -7130774984623620368
+      pmf_logo_10: -1951448712687986181
+      pmf_logo_100: -4595113478287157284
+      pmf_logo_101: 495812724992786765
+      pmf_logo_102: -117679464257438275
+      pmf_logo_11: -4190609926245393159
+      pmf_logo_12: -1077979479288311192
+      pmf_logo_13: 979854862974822479
+      pmf_logo_14: 6419246378673066847
+      pmf_logo_15: -1321906565169658030
+      pmf_logo_16: 4365465562650897163
+      pmf_logo_17: -2627959929351513232
+      pmf_logo_18: -2529997996031208747
+      pmf_logo_19: 7631116731750469057
+      pmf_logo_2: -852549122528685618
+      pmf_logo_20: -1234055962729963947
+      pmf_logo_21: 1584665889873405554
+      pmf_logo_22: 5574268401235155326
+      pmf_logo_23: 7612801239597504446
+      pmf_logo_24: -6532174797351865760
+      pmf_logo_25: -6856139996826075821
+      pmf_logo_26: -7703659548254485731
+      pmf_logo_27: 5830368176412109941
+      pmf_logo_28: 5738256398291416619
+      pmf_logo_29: -7133735743575825388
+      pmf_logo_3: -3588041920886506837
+      pmf_logo_30: 1844274866161932964
+      pmf_logo_31: 8251853997322339571
+      pmf_logo_32: -435395095946830572
+      pmf_logo_33: 6409020450793555374
+      pmf_logo_34: 3966438305076548508
+      pmf_logo_35: -9219247313400840305
+      pmf_logo_36: 8717062681521378622
+      pmf_logo_37: -6636356700120211114
+      pmf_logo_38: -7039966912905970731
+      pmf_logo_39: -3371511163122119556
+      pmf_logo_4: 2395737254001947583
+      pmf_logo_40: -6136849960882429619
+      pmf_logo_41: 51524715289821342
+      pmf_logo_42: -7580802737605153403
+      pmf_logo_43: 916220038824760820
+      pmf_logo_44: 5823326868674064424
+      pmf_logo_45: 6123633947228613744
+      pmf_logo_46: 8271928796183011568
+      pmf_logo_47: -2740387960675348769
+      pmf_logo_48: 1217334237205136243
+      pmf_logo_49: -7359448820772890449
+      pmf_logo_5: -8640242092907753231
+      pmf_logo_50: -2054267753337494121
+      pmf_logo_51: 7212122280986597261
+      pmf_logo_52: -6960914580170580180
+      pmf_logo_53: -5833821911801964686
+      pmf_logo_54: 6619641292751009437
+      pmf_logo_55: 2837577183037801142
+      pmf_logo_56: -7690063672880026292
+      pmf_logo_57: -4326602650278875267
+      pmf_logo_58: 3359977357880633952
+      pmf_logo_59: -422008204458254589
+      pmf_logo_6: -7723950025261720902
+      pmf_logo_60: -3787215639280574565
+      pmf_logo_61: -4177955451999037621
+      pmf_logo_62: -6544780853946433820
+      pmf_logo_63: -9054439981976167186
+      pmf_logo_64: 1671185072538685883
+      pmf_logo_65: 2244230633922972069
+      pmf_logo_66: 5984483912693359754
+      pmf_logo_67: 6238322988411981385
+      pmf_logo_68: 865427059371202159
+      pmf_logo_69: 3766955870362903734
+      pmf_logo_7: -4714523310605359619
+      pmf_logo_70: 2441054214973264848
+      pmf_logo_71: 1787828657261403848
+      pmf_logo_72: 6719578957728853230
+      pmf_logo_73: 3867771122250871463
+      pmf_logo_74: -1332040606921698000
+      pmf_logo_75: -1429445335382650215
+      pmf_logo_76: 1262905036929827787
+      pmf_logo_77: -6809459292041570224
+      pmf_logo_78: 1451461079752103820
+      pmf_logo_79: 134184289703899723
+      pmf_logo_8: 124389826528837455
+      pmf_logo_80: 1515036390374709585
+      pmf_logo_81: -6031891756064441772
+      pmf_logo_82: 6875382645258176717
+      pmf_logo_83: 7820788416398923300
+      pmf_logo_84: 7568568689212050626
+      pmf_logo_85: 7930543483538716163
+      pmf_logo_86: -4474464596152066200
+      pmf_logo_87: -6423187423595864702
+      pmf_logo_88: -8161479466019641360
+      pmf_logo_89: 7268347733804301634
+      pmf_logo_9: 8622800549674282289
+      pmf_logo_90: 4440679279356595838
+      pmf_logo_91: 8215955596447832827
+      pmf_logo_92: 4046893661743095837
+      pmf_logo_93: 4261864673358489616
+      pmf_logo_94: -1674683593955458542
+      pmf_logo_95: -2963339725596794878
+      pmf_logo_96: 3060951672025954214
+      pmf_logo_97: 4199318313342376905
+      pmf_logo_98: 9073100420664219265
+      pmf_logo_99: -2794938579722981489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
